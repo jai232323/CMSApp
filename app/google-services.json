@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "810738945630",
+    "firebase_url": "https://collegemanagementsystem-6f2b1-default-rtdb.firebaseio.com",
+    "project_id": "collegemanagementsystem-6f2b1",
+    "storage_bucket": "collegemanagementsystem-6f2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810738945630:android:07676535b268fcee93aecf",
+        "android_client_info": {
+          "package_name": "com.example.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810738945630-2kggb0c7dhtopud2prsemgmst7nqsms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnSF6-yrkc6e2HUXlrmFqe2ShA_eM8Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810738945630-2kggb0c7dhtopud2prsemgmst7nqsms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810738945630:android:2591917f61d1b96093aecf",
+        "android_client_info": {
+          "package_name": "com.example.collegemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810738945630-2kggb0c7dhtopud2prsemgmst7nqsms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnSF6-yrkc6e2HUXlrmFqe2ShA_eM8Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810738945630-2kggb0c7dhtopud2prsemgmst7nqsms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
